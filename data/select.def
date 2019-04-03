@@ -1,0 +1,13 @@
+[Characters]
+Cvs_Iori
+kfm_cn
+kfm_cn1
+
+[ExtraStages]
+stages\kfm.def
+stages\stage0-720.def
+stages\stage0.def
+
+[Options]
+arcade.maxmatches=1,1,1,1,0,0,0,0,0,0
+team.maxmatches=1,1,1,1,0,0,0,0,0,0
